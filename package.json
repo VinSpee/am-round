@@ -1,0 +1,29 @@
+{
+  "name": "am-round",
+  "version": "1.0.0",
+  "description": "Utility attributes to uniformly round edges",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VinSpee/am-round.git"
+  },
+  "keywords": [
+    "am-css",
+    "suit-css",
+    "arrange",
+    "component",
+    "utility",
+    "round",
+    "spacing",
+    "amcss"
+  ],
+  "author": "Vince Speelman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VinSpee/am-round/issues"
+  },
+  "homepage": "https://github.com/VinSpee/am-round"
+}
